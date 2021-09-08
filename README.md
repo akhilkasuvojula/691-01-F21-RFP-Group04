@@ -29,9 +29,9 @@ The website is cooperative, not complex to find the company and subscribe to the
 ## Functional Requirements
 
 Create a web app (or native application) with authentication and authorization. The following roles are suggested:
- 1.Admin User
- 2.Committee User
- 3.End-User / Client
+ 1. Admin User
+ 2. Committee User
+ 3. End-User / Client
 ### Organization Admin User Can do :
 1.	Create a profile to  the organization  
 	1.	Adds the committee members and other Admins
